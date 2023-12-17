@@ -23,7 +23,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![image](https://github.com/ibrahimfedahs/GCD-of-two-numbers/assets/150319493/413e6246-c638-4bd5-b993-e91fc8bd038a)
+
 
 
 ## Result:
